@@ -1,3 +1,4 @@
+*.py linguist-language=python
 # Author: Kenny Wang
 
 from __future__ import print_function, division
